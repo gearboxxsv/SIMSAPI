@@ -1,2 +1,2 @@
 # SIMSAPI
-Search Engine Management System
+Search Information Management System
